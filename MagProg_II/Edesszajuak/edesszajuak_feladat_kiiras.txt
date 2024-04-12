@@ -1,0 +1,31 @@
+Egy édességet jellemeznek a következő adatok:
+	- neve: nem üres
+	- cukortartalom százalékban: valós szám, csak olvasható
+	- diabetikus property: logikai érték, mely akkor igaz, ha a cukortartalom nem haladja meg a fél százalékot
+	- tömeg grammban: valós nemnegatív érték, csak az osztályon belül módosítható
+	- konstruktor az összes paraméterrel
+	- konstruktor, amely diabetikus édességet hoz létre
+	- "megeszem" metódus: kap egy X százalékértéket és ennyit "elfogyaszt" az édességből, azaz a tömeget csökkenti X%-kal
+
+Egy csokoládét (mint édességet) jellemeznek még a következő adatok:
+	- kakaótartalom százalékban: valós szám, csak olvasható
+	- csokoládé fajtája, lásd: https://hu.wikipedia.org/wiki/Szerkeszt%C5%91:Perfectmiss/Pom-pom_mes%C3%A9i#Gomb.C3.B3c_Art.C3.BAr
+	- konstruktor az összes paraméterrel
+	- A "megeszem" metódust írd felül! Mivel a csoki túl finom, ezért hiába akarok X%-ot megenni belőle, úgyis a dupláját fogom. Azaz a tömeget 2X%-kal csökkentsd (de nem 	  haladd meg a 100%-ot)!
+
+Egy drazsét (mint édességet) jellemeznek a következő adatok:
+	- színe: enum (akár a .NET valamely beépített enumja is jó)
+	- konstruktor az összes paraméterrel
+	- A "megeszem" metódust írd felül! Drazséval nem bírok leállni, ezért úgyis mindig megeszem az egészet (100%-ot).
+
+Az édességboltban rengeteg édességet árulnak, azaz nyilvántartjuk a polcon levő édességek listáját.
+	- Írj hozzáadó metódus, mely egy édességet csak akkor ad hozzá a bolthoz, ha nincs a boltban már ugyanolyan néven, ugyanolyan cukortartalommal nagyobb tömegű termék!
+	- Írj property-t, mely visszaadja, hogy van-e diabetikus édesség a boltban!
+	- Írj metódust, mely paraméterként megkap egy színt és visszaadja, hogy hány kilogramm ilyen színű drazsé van a boltban!
+	- Írj metódust, mely paraméterként megkap egy csokifajtát és egy kakaótartalom értéket, és visszaadja azoknak a csokiknak listáját, melyek ilyen fajtájúak és legalább 	  ennyi kakaót tartalmaznak! (Equals!)
+
+Írj főprogramot, mely:
+	- Létrehoz egy édességbolt példányt és feltölti azt édességekkel egy szöveges fájlból (köztük csokoládékkal és drazsékkal is). A szöveges fájlt is Te rakd össze!
+	- Kiírja a képernyőre azokat a meztelen csokikat, melyek legalább 80%-os kakaótartalmúak és diabetikusak. (ToString!)
+	- Egyél bele néhány legalább 5 édességbe!
+	- Kiírja a képernyőre, hogy hány kilogramm sárga drazsé van a boltban.

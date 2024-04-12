@@ -1,0 +1,6 @@
+﻿Lajos;6200;SARGA;false
+Anakin;55000;NARANCS;false
+Obi van;67000;ZOLD;true
+Renátó;5001
+Zoltán;67666;SARGA;true
+Béla;69512;KEK;false

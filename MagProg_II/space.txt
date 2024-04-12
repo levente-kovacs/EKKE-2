@@ -1,0 +1,5 @@
+HE-6735
+b;B-78378;Tatooin;2300;true;240,6
+c;C-267267;Alpha Centauri;6700;Atlagos;986
+c;C-83782;Sirius A;7300;Atlagos;1923
+b;B-0001;Föld;4600;true;321,1

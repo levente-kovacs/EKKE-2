@@ -1,0 +1,15 @@
+C:\Main\ekke\MagProg_II\Space_task\Space_task\bin\Debug\net6.0\Space_task.exe
+C:\Main\ekke\MagProg_II\Space_task\Space_task\bin\Debug\net6.0\space.txt
+C:\Main\ekke\MagProg_II\Space_task\Space_task\bin\Debug\net6.0\Space_task.deps.json
+C:\Main\ekke\MagProg_II\Space_task\Space_task\bin\Debug\net6.0\Space_task.runtimeconfig.json
+C:\Main\ekke\MagProg_II\Space_task\Space_task\bin\Debug\net6.0\Space_task.dll
+C:\Main\ekke\MagProg_II\Space_task\Space_task\bin\Debug\net6.0\Space_task.pdb
+C:\Main\ekke\MagProg_II\Space_task\Space_task\obj\Debug\net6.0\Space_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main\ekke\MagProg_II\Space_task\Space_task\obj\Debug\net6.0\Space_task.AssemblyInfoInputs.cache
+C:\Main\ekke\MagProg_II\Space_task\Space_task\obj\Debug\net6.0\Space_task.AssemblyInfo.cs
+C:\Main\ekke\MagProg_II\Space_task\Space_task\obj\Debug\net6.0\Space_task.csproj.CoreCompileInputs.cache
+C:\Main\ekke\MagProg_II\Space_task\Space_task\obj\Debug\net6.0\Space_task.dll
+C:\Main\ekke\MagProg_II\Space_task\Space_task\obj\Debug\net6.0\refint\Space_task.dll
+C:\Main\ekke\MagProg_II\Space_task\Space_task\obj\Debug\net6.0\Space_task.pdb
+C:\Main\ekke\MagProg_II\Space_task\Space_task\obj\Debug\net6.0\Space_task.genruntimeconfig.cache
+C:\Main\ekke\MagProg_II\Space_task\Space_task\obj\Debug\net6.0\ref\Space_task.dll

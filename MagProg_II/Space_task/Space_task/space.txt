@@ -1,0 +1,7 @@
+HE-6735
+b;B-78378;Tatooin;2300;true;240,6
+c;C-267267;Alpha Centauri;6700;Average;986
+c;C-83782;Sirius A;7300;Average;1923
+c;C-347129;Arcturus;8730;RedGiant;9706
+c;C-160;Vego;9170;RedGiant;11062,9
+b;B-0001;Föld;4600;true;321,1

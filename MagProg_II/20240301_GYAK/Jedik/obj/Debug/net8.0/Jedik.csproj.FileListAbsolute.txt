@@ -1,0 +1,15 @@
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Jedik\bin\Debug\net8.0\rend.txt
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Jedik\bin\Debug\net8.0\Jedik.exe
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Jedik\bin\Debug\net8.0\Jedik.deps.json
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Jedik\bin\Debug\net8.0\Jedik.runtimeconfig.json
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Jedik\bin\Debug\net8.0\Jedik.dll
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Jedik\bin\Debug\net8.0\Jedik.pdb
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Jedik\obj\Debug\net8.0\Jedik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Jedik\obj\Debug\net8.0\Jedik.AssemblyInfoInputs.cache
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Jedik\obj\Debug\net8.0\Jedik.AssemblyInfo.cs
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Jedik\obj\Debug\net8.0\Jedik.csproj.CoreCompileInputs.cache
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Jedik\obj\Debug\net8.0\Jedik.dll
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Jedik\obj\Debug\net8.0\refint\Jedik.dll
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Jedik\obj\Debug\net8.0\Jedik.pdb
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Jedik\obj\Debug\net8.0\Jedik.genruntimeconfig.cache
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Jedik\obj\Debug\net8.0\ref\Jedik.dll

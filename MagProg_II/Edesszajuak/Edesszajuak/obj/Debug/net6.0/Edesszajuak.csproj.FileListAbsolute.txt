@@ -1,0 +1,14 @@
+C:\Main\ekke\MagProg_II\Edesszajuak\Edesszajuak\bin\Debug\net6.0\Edesszajuak.exe
+C:\Main\ekke\MagProg_II\Edesszajuak\Edesszajuak\bin\Debug\net6.0\Edesszajuak.deps.json
+C:\Main\ekke\MagProg_II\Edesszajuak\Edesszajuak\bin\Debug\net6.0\Edesszajuak.runtimeconfig.json
+C:\Main\ekke\MagProg_II\Edesszajuak\Edesszajuak\bin\Debug\net6.0\Edesszajuak.dll
+C:\Main\ekke\MagProg_II\Edesszajuak\Edesszajuak\bin\Debug\net6.0\Edesszajuak.pdb
+C:\Main\ekke\MagProg_II\Edesszajuak\Edesszajuak\obj\Debug\net6.0\Edesszajuak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main\ekke\MagProg_II\Edesszajuak\Edesszajuak\obj\Debug\net6.0\Edesszajuak.AssemblyInfoInputs.cache
+C:\Main\ekke\MagProg_II\Edesszajuak\Edesszajuak\obj\Debug\net6.0\Edesszajuak.AssemblyInfo.cs
+C:\Main\ekke\MagProg_II\Edesszajuak\Edesszajuak\obj\Debug\net6.0\Edesszajuak.csproj.CoreCompileInputs.cache
+C:\Main\ekke\MagProg_II\Edesszajuak\Edesszajuak\obj\Debug\net6.0\Edesszajuak.dll
+C:\Main\ekke\MagProg_II\Edesszajuak\Edesszajuak\obj\Debug\net6.0\refint\Edesszajuak.dll
+C:\Main\ekke\MagProg_II\Edesszajuak\Edesszajuak\obj\Debug\net6.0\Edesszajuak.pdb
+C:\Main\ekke\MagProg_II\Edesszajuak\Edesszajuak\obj\Debug\net6.0\Edesszajuak.genruntimeconfig.cache
+C:\Main\ekke\MagProg_II\Edesszajuak\Edesszajuak\obj\Debug\net6.0\ref\Edesszajuak.dll

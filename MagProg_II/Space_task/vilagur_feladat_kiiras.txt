@@ -1,0 +1,29 @@
+Egy égitestet jellemeznek a következő adatai:
+	- azonosítója: legalább 5 karakter hosszú; kell, hogy legyen benne legalább egy kötőjel
+	- neve: nem null és nem üres
+	- kora millió években (tört is lehet)
+	- konstruktor a 3 mező kezdőértékével
+	- konstruktor csak az azonosítóval (a nevet az azonosítóval megegyezőre állítja, a kort pedig 4600-ra)
+
+Egy bolygót (mint égitestet) jellemezzenek még a következő adatok:
+	- közetbolygó-e vagy óriásbolygó
+	- a napja körüli keringési távolság: csillagászati egységben (tört szám is lehet)
+	- konstruktor az összes mező kezdőértékével
+
+Egy csillagot (mint égitestet) jellemezzenek még a következő adatok:
+	- osztálya: átlagos csillag, vörös óriás, barna törpe, neutroncsillag, stb.
+	- átmérő: a Nap átmérőjének hányszorosa (tört szám is lehet)
+	- konstruktor az összes mező kezdőértékével
+
+A világűrben akárhány bolygó és csillag lehet, ezeket tárold egy megfelelő adatszerkezetben. Írj property-ket/metódusokat ehhez az osztályhoz:
+	- Égitest hozzáadása: csak akkor adjuk hozzá, ha nem létezik benne égitest ugyanolyan azonosítóval.
+	- Adott azonosítójú égitest törlése.
+	- Mennyi a bolygók átlagos keringési távolsága?
+	- Melyek a paraméterként megkapott osztályba tartozó csillagok?
+
+Írj főprogramot, mely:
+	- Létrehoz egy világűr példányt!
+	- Feltölti a világűrt egy szöveges fájlból égitestekkel (köztük bolygókkal és csillagokkal).
+	- A világűr property-ket/metódusokat használva kiírja:
+		A bolygók átlagos keringési távolságát.
+	- A vörös óriások közül a maximális átmérőjűnek az adatait. (Ehhez is használd fel a világűr megfelelő property-jét/metódusát!)

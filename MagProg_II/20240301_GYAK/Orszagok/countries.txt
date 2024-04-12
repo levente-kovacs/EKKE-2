@@ -1,0 +1,18 @@
+﻿Hungary;9634000;163469;FullMember;1,21
+Austria;9043000;445075;PeacePartner;0,73
+Morocco;37345000;119701;Arabic
+France;65426000;2715518;FullMember;1,84
+Russian Federation;145912000;1692930
+Romania;19128000;250076;FullMember;2,04
+China;1444216000;14342934
+Tunisia;11936000;38797;Arabic
+United States of America;332915000;21433226;FullMember;3,42
+Angola;33934000;85001;Portuguese
+Denmark;5813000;350104;FullMember;1,35
+Ethiopia;117876000;92750;OtherAfricanLanguages
+Germany;83900000;3861124;FullMember;1,36
+Egypt;104258000;317359;Arabic
+Estonia;1325000;31471;FullMember;2,13
+Rwanda;13276000;10355;OtherAfricanLanguages
+Canada;38068000;1741497;FullMember;1,27
+Switzerland;8716000;731425;PeacePartner;0,73

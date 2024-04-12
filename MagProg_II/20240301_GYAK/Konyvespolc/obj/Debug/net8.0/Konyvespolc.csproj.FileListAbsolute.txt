@@ -1,0 +1,14 @@
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Konyvespolc\obj\Debug\net8.0\Konyvespolc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Konyvespolc\obj\Debug\net8.0\Konyvespolc.AssemblyInfoInputs.cache
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Konyvespolc\obj\Debug\net8.0\Konyvespolc.AssemblyInfo.cs
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Konyvespolc\obj\Debug\net8.0\Konyvespolc.csproj.CoreCompileInputs.cache
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Konyvespolc\bin\Debug\net8.0\Konyvespolc.exe
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Konyvespolc\bin\Debug\net8.0\Konyvespolc.deps.json
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Konyvespolc\bin\Debug\net8.0\Konyvespolc.runtimeconfig.json
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Konyvespolc\bin\Debug\net8.0\Konyvespolc.dll
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Konyvespolc\bin\Debug\net8.0\Konyvespolc.pdb
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Konyvespolc\obj\Debug\net8.0\Konyvespolc.dll
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Konyvespolc\obj\Debug\net8.0\refint\Konyvespolc.dll
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Konyvespolc\obj\Debug\net8.0\Konyvespolc.pdb
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Konyvespolc\obj\Debug\net8.0\Konyvespolc.genruntimeconfig.cache
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Konyvespolc\obj\Debug\net8.0\ref\Konyvespolc.dll

@@ -1,0 +1,15 @@
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240317_GYAK\Ingatlan\bin\Debug\net8.0\Ingatlan.exe
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240317_GYAK\Ingatlan\bin\Debug\net8.0\Ingatlan.deps.json
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240317_GYAK\Ingatlan\bin\Debug\net8.0\Ingatlan.runtimeconfig.json
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240317_GYAK\Ingatlan\bin\Debug\net8.0\Ingatlan.dll
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240317_GYAK\Ingatlan\bin\Debug\net8.0\Ingatlan.pdb
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240317_GYAK\Ingatlan\obj\Debug\net8.0\Ingatlan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240317_GYAK\Ingatlan\obj\Debug\net8.0\Ingatlan.AssemblyInfoInputs.cache
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240317_GYAK\Ingatlan\obj\Debug\net8.0\Ingatlan.AssemblyInfo.cs
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240317_GYAK\Ingatlan\obj\Debug\net8.0\Ingatlan.csproj.CoreCompileInputs.cache
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240317_GYAK\Ingatlan\obj\Debug\net8.0\Ingatlan.dll
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240317_GYAK\Ingatlan\obj\Debug\net8.0\refint\Ingatlan.dll
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240317_GYAK\Ingatlan\obj\Debug\net8.0\Ingatlan.pdb
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240317_GYAK\Ingatlan\obj\Debug\net8.0\Ingatlan.genruntimeconfig.cache
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240317_GYAK\Ingatlan\obj\Debug\net8.0\ref\Ingatlan.dll
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240317_GYAK\Ingatlan\bin\Debug\net8.0\ingatlanok.txt

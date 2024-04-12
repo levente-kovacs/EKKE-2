@@ -1,0 +1,15 @@
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Orszagok\bin\Debug\net8.0\countries.txt
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Orszagok\bin\Debug\net8.0\Orszagok.exe
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Orszagok\bin\Debug\net8.0\Orszagok.deps.json
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Orszagok\bin\Debug\net8.0\Orszagok.runtimeconfig.json
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Orszagok\bin\Debug\net8.0\Orszagok.dll
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Orszagok\bin\Debug\net8.0\Orszagok.pdb
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Orszagok\obj\Debug\net8.0\Orszagok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Orszagok\obj\Debug\net8.0\Orszagok.AssemblyInfoInputs.cache
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Orszagok\obj\Debug\net8.0\Orszagok.AssemblyInfo.cs
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Orszagok\obj\Debug\net8.0\Orszagok.csproj.CoreCompileInputs.cache
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Orszagok\obj\Debug\net8.0\Orszagok.dll
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Orszagok\obj\Debug\net8.0\refint\Orszagok.dll
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Orszagok\obj\Debug\net8.0\Orszagok.pdb
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Orszagok\obj\Debug\net8.0\Orszagok.genruntimeconfig.cache
+C:\Users\fvikt\OneDrive\Dokumentumok\SajatDokumentumok\EKKE\2023_24_02\Magasszintű programozási nyelvek II gy (LBT_IM732G3)\source\20240301_GYAK\Orszagok\obj\Debug\net8.0\ref\Orszagok.dll
