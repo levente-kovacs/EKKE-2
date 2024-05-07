@@ -1,0 +1,16 @@
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2023 tavasz\ZH2 - App\ZH2 - App\bin\Debug\ZH2 - App.exe.config
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2023 tavasz\ZH2 - App\ZH2 - App\bin\Debug\ZH2 - App.exe
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2023 tavasz\ZH2 - App\ZH2 - App\bin\Debug\ZH2 - App.pdb
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2023 tavasz\ZH2 - App\ZH2 - App\obj\Debug\ZH2 - App.csproj.AssemblyReference.cache
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2023 tavasz\ZH2 - App\ZH2 - App\obj\Debug\ZH2 - App.csproj.SuggestedBindingRedirects.cache
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2023 tavasz\ZH2 - App\ZH2 - App\obj\Debug\ZH2 - App.csproj.CoreCompileInputs.cache
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2023 tavasz\ZH2 - App\ZH2 - App\obj\Debug\ZH2 - App.exe
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2023 tavasz\ZH2 - App\ZH2 - App\obj\Debug\ZH2 - App.pdb
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2023 tavasz\NEPTUNKOD\ZH2 - App\obj\Debug\ZH2 - App.csproj.AssemblyReference.cache
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2023 tavasz\NEPTUNKOD\ZH2 - App\obj\Debug\ZH2 - App.csproj.SuggestedBindingRedirects.cache
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2023 tavasz\NEPTUNKOD\ZH2 - App\obj\Debug\ZH2 - App.csproj.CoreCompileInputs.cache
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2023 tavasz\NEPTUNKOD\ZH2 - App\obj\Debug\ZH2 - App.exe
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2023 tavasz\NEPTUNKOD\ZH2 - App\obj\Debug\ZH2 - App.pdb
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2023 tavasz\NEPTUNKOD\ZH2 - App\bin\Debug\ZH2 - App.exe.config
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2023 tavasz\NEPTUNKOD\ZH2 - App\bin\Debug\ZH2 - App.exe
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2023 tavasz\NEPTUNKOD\ZH2 - App\bin\Debug\ZH2 - App.pdb

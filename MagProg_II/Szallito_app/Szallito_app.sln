@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szallito_app", "Szallito_app\Szallito_app.csproj", "{4338BFA0-7862-4945-B1DA-3A7BED5119B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4338BFA0-7862-4945-B1DA-3A7BED5119B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4338BFA0-7862-4945-B1DA-3A7BED5119B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4338BFA0-7862-4945-B1DA-3A7BED5119B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4338BFA0-7862-4945-B1DA-3A7BED5119B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {124C85AE-6F45-4A47-941B-E69F07578BC8}
+	EndGlobalSection
+EndGlobal

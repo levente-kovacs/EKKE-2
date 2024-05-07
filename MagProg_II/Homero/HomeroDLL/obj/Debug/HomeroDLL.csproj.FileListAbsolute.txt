@@ -1,0 +1,6 @@
+C:\Main\tanulas\ekke\EKKE-2\MagProg_II\Homero\HomeroDLL\bin\Debug\HomeroDLL.dll
+C:\Main\tanulas\ekke\EKKE-2\MagProg_II\Homero\HomeroDLL\bin\Debug\HomeroDLL.pdb
+C:\Main\tanulas\ekke\EKKE-2\MagProg_II\Homero\HomeroDLL\obj\Debug\HomeroDLL.csproj.AssemblyReference.cache
+C:\Main\tanulas\ekke\EKKE-2\MagProg_II\Homero\HomeroDLL\obj\Debug\HomeroDLL.csproj.CoreCompileInputs.cache
+C:\Main\tanulas\ekke\EKKE-2\MagProg_II\Homero\HomeroDLL\obj\Debug\HomeroDLL.dll
+C:\Main\tanulas\ekke\EKKE-2\MagProg_II\Homero\HomeroDLL\obj\Debug\HomeroDLL.pdb
