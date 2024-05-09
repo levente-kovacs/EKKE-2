@@ -1,0 +1,16 @@
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\2023_02\MP2 - LEV - C\03 - Orkok\03 - Orkok\obj\Debug\03 - Orkok.csproj.AssemblyReference.cache
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\2023_02\MP2 - LEV - C\03 - Orkok\03 - Orkok\obj\Debug\03 - Orkok.csproj.SuggestedBindingRedirects.cache
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\2023_02\MP2 - LEV - C\03 - Orkok\03 - Orkok\obj\Debug\03 - Orkok.csproj.CoreCompileInputs.cache
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\2023_02\MP2 - LEV - C\03 - Orkok\03 - Orkok\bin\Debug\03 - Orkok.exe.config
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\2023_02\MP2 - LEV - C\03 - Orkok\03 - Orkok\bin\Debug\03 - Orkok.exe
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\2023_02\MP2 - LEV - C\03 - Orkok\03 - Orkok\bin\Debug\03 - Orkok.pdb
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\2023_02\MP2 - LEV - C\03 - Orkok\03 - Orkok\obj\Debug\03 - Orkok.exe
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\2023_02\MP2 - LEV - C\03 - Orkok\03 - Orkok\obj\Debug\03 - Orkok.pdb
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\Video\Programok\03_Orkok\03 - Orkok\bin\Debug\03 - Orkok.exe.config
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\Video\Programok\03_Orkok\03 - Orkok\bin\Debug\03 - Orkok.exe
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\Video\Programok\03_Orkok\03 - Orkok\bin\Debug\03 - Orkok.pdb
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\Video\Programok\03_Orkok\03 - Orkok\obj\Debug\03 - Orkok.csproj.AssemblyReference.cache
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\Video\Programok\03_Orkok\03 - Orkok\obj\Debug\03 - Orkok.csproj.SuggestedBindingRedirects.cache
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\Video\Programok\03_Orkok\03 - Orkok\obj\Debug\03 - Orkok.csproj.CoreCompileInputs.cache
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\Video\Programok\03_Orkok\03 - Orkok\obj\Debug\03 - Orkok.exe
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\Video\Programok\03_Orkok\03 - Orkok\obj\Debug\03 - Orkok.pdb

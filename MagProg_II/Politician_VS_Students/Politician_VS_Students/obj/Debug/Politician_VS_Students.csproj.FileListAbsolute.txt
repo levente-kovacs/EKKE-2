@@ -1,0 +1,8 @@
+C:\Main\tanulas\ekke\EKKE-2\MagProg_II\Politician_VS_Students\Politician_VS_Students\obj\Debug\Politician_VS_Students.csproj.AssemblyReference.cache
+C:\Main\tanulas\ekke\EKKE-2\MagProg_II\Politician_VS_Students\Politician_VS_Students\obj\Debug\Politician_VS_Students.csproj.CoreCompileInputs.cache
+C:\Main\tanulas\ekke\EKKE-2\MagProg_II\Politician_VS_Students\Politician_VS_Students\bin\Debug\persons.txt
+C:\Main\tanulas\ekke\EKKE-2\MagProg_II\Politician_VS_Students\Politician_VS_Students\bin\Debug\Politician_VS_Students.exe.config
+C:\Main\tanulas\ekke\EKKE-2\MagProg_II\Politician_VS_Students\Politician_VS_Students\bin\Debug\Politician_VS_Students.exe
+C:\Main\tanulas\ekke\EKKE-2\MagProg_II\Politician_VS_Students\Politician_VS_Students\bin\Debug\Politician_VS_Students.pdb
+C:\Main\tanulas\ekke\EKKE-2\MagProg_II\Politician_VS_Students\Politician_VS_Students\obj\Debug\Politician_VS_Students.exe
+C:\Main\tanulas\ekke\EKKE-2\MagProg_II\Politician_VS_Students\Politician_VS_Students\obj\Debug\Politician_VS_Students.pdb

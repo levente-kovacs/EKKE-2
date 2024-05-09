@@ -1,0 +1,6 @@
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\Video\Programok\07_KonyvesboltDLL\07_KonyvesboltDLL\bin\Debug\07_KonyvesboltDLL.dll
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\Video\Programok\07_KonyvesboltDLL\07_KonyvesboltDLL\bin\Debug\07_KonyvesboltDLL.pdb
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\Video\Programok\07_KonyvesboltDLL\07_KonyvesboltDLL\obj\Debug\07_KonyvesboltDLL.csproj.AssemblyReference.cache
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\Video\Programok\07_KonyvesboltDLL\07_KonyvesboltDLL\obj\Debug\07_KonyvesboltDLL.csproj.CoreCompileInputs.cache
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\Video\Programok\07_KonyvesboltDLL\07_KonyvesboltDLL\obj\Debug\07_KonyvesboltDLL.dll
+D:\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\Video\Programok\07_KonyvesboltDLL\07_KonyvesboltDLL\obj\Debug\07_KonyvesboltDLL.pdb

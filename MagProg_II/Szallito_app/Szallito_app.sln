@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szallito_app", "Szallito_app\Szallito_app.csproj", "{4338BFA0-7862-4945-B1DA-3A7BED5119B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SzallitoDLL", "SzallitoDLL\SzallitoDLL.csproj", "{8394125B-3A9B-422A-8639-65D9C8E59B57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4338BFA0-7862-4945-B1DA-3A7BED5119B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4338BFA0-7862-4945-B1DA-3A7BED5119B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4338BFA0-7862-4945-B1DA-3A7BED5119B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8394125B-3A9B-422A-8639-65D9C8E59B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8394125B-3A9B-422A-8639-65D9C8E59B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8394125B-3A9B-422A-8639-65D9C8E59B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8394125B-3A9B-422A-8639-65D9C8E59B57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
