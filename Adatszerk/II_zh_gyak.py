@@ -31,18 +31,18 @@ print("Közvetlen (n): \t", kozvetlen2(arr))
 # ***** BUBORÉK RENDEZÉS *****
 # Sorba rendezi a sorozatot az egymással szomszédos elemek cseréjével.
 # A sorozat végéről indul, és minden lépésben felcseréli a rossz sorredben levő szomszédokat.
-def buborek(arr):
+def bubble_sort(arr):
     for i in range(len(arr)-1, 0, -1):
         for j in range(0, i):
             if arr[j+1] < arr[j]:
                 arr[j], arr[j+1] = arr[j+1], arr[j]
     return arr
-print("Buborék: \t", buborek(arr))
+print("Buborék: \t", bubble_sort(arr))
 
 # ***** KOKTÉL RENDEZÉS *****
 # Sorba rendezi a sorozatot. A buborék rendezés tökéletesített változata.
 # Két irányból kezdi el cserélgetni az egymással szomszédos, rossz sorrendben levő elemeket.
-def koktel(arr):  
+def cocktail_sort(arr):  
     arrLength = len(arr)
     lowI = 0
     highI = arrLength - 1
@@ -58,11 +58,11 @@ def koktel(arr):
                 arr[j], arr[j+1] = arr[j+1], arr[j]
         lowI += 1
     return arr
-print("Koktél: \t", koktel(arr))
+print("Koktél: \t", cocktail_sort(arr))
 
 # ***** SHELL RENDEZÉS *****
-# 
-def shellSort(arr, n):
+# Sorba rendez egy sorozatot, de nem foglalkozik egyszerre az összes elemmel, csak az egymástól bizonyos távolságra levőkkel.
+def shell_sort(arr, n):
     half = n // 2
     while half > 0:
         for i in range(half, n):
@@ -71,16 +71,14 @@ def shellSort(arr, n):
             while j >= half and arr[j-half] > temp:
                 arr[j] = arr[j-half]
                 j -= half
-
             arr[j] = temp
         half //= 2
-
     return arr
-print("Shell: \t\t", shellSort(arr, 4))
+print("Shell: \t\t", shell_sort(arr, 4))
 
 # ***** GYORS RENDEZÉS *****
-# 
-def gyorsrendezes(arr):
+# Sorba rendez egy sorozatot oly módon, hogy részekre bontja a sorozatot, és ezeket rendezi.
+def gyors_rendezes(arr):
     arrLength = len(arr)
     if arrLength <= 1:
         return arr
@@ -95,11 +93,12 @@ def gyorsrendezes(arr):
             equals.append(num)
         if num > lastElement:
             bigs.append(num)
-    return gyorsrendezes(smalls) + equals + gyorsrendezes(bigs)
-print("Gyors: \t\t", gyorsrendezes(arr))
+    return gyors_rendezes(smalls) + equals + gyors_rendezes(bigs)
+print("Gyors: \t\t", gyors_rendezes(arr))
 
 # ***** INSERTION SORT *****
-# 
+# Sorba rendez egy sorozatot, oly módon, hogy az elemeket mindig a tűlük balra levő elemhez viszonyítja,
+# és kicseréli őket, ha szükséges.
 def insertion_sort(arr):
     for i in range(1, len(arr)):
         curr = arr[i]
@@ -112,7 +111,7 @@ def insertion_sort(arr):
 print("Insertion: \t", insertion_sort(arr))
 
 # ***** ÖSSZEFUTTATÁS TÉTELE (MERGE SORT) *****
-#
+# Hatékonyan sorba rendez egy sorozatot a sorozat felosztása, rekurzió és a részek összefuttatásának segítségével.
 def merge_sort(arr):
     if len(arr) > 1:
         mid = len(arr) // 2
@@ -144,24 +143,3 @@ def merge_sort(arr):
             k += 1
     return arr
 print("Merge: \t\t", merge_sort(arr))
-
-# ***** FÉSŰS RENDEZÉS *****
-#
-def comb_sort(arr):
-    arrLength = len(arr)
-    gap = arrLength
-    divider = 1.3  # A lépésköz csökkentésének tényezője
-    swapped = True
-    while gap > 1 or swapped:
-        gap = int(gap / divider)
-        if gap < 1:
-            gap = 1
-        swapped = False
-        i = 0
-        while i + gap < arrLength:  # Amíg a lépésközrel az utolsó elem előtt vagyunk
-            if arr[i] > arr[i + gap]:
-                arr[i], arr[i + gap] = arr[i + gap], arr[i]
-                swapped = True
-            i += 1
-    return arr
-print("Fésűs: \t\t", comb_sort(arr))
