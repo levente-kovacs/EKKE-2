@@ -1,0 +1,5 @@
+# ha nem letezik kezdoallomany, akkor tiltsuk le a listazast 
+Options -Indexes
+
+# feluldefinialom a mappa kezdooldalat 
+DirectoryIndex start.php

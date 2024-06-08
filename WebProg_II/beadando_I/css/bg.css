@@ -1,0 +1,10 @@
+.background {
+    position: fixed;
+    height: 100vh;
+    width: 100%;
+    background-image: url('../assets/img/mountains-wallpaper.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -100;
+}
