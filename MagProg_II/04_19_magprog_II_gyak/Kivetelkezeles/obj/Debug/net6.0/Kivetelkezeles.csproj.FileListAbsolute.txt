@@ -1,0 +1,14 @@
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Kivetelkezeles\bin\Debug\net6.0\Kivetelkezeles.exe
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Kivetelkezeles\bin\Debug\net6.0\Kivetelkezeles.deps.json
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Kivetelkezeles\bin\Debug\net6.0\Kivetelkezeles.runtimeconfig.json
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Kivetelkezeles\bin\Debug\net6.0\Kivetelkezeles.dll
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Kivetelkezeles\bin\Debug\net6.0\Kivetelkezeles.pdb
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Kivetelkezeles\obj\Debug\net6.0\Kivetelkezeles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Kivetelkezeles\obj\Debug\net6.0\Kivetelkezeles.AssemblyInfoInputs.cache
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Kivetelkezeles\obj\Debug\net6.0\Kivetelkezeles.AssemblyInfo.cs
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Kivetelkezeles\obj\Debug\net6.0\Kivetelkezeles.csproj.CoreCompileInputs.cache
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Kivetelkezeles\obj\Debug\net6.0\Kivetelkezeles.dll
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Kivetelkezeles\obj\Debug\net6.0\refint\Kivetelkezeles.dll
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Kivetelkezeles\obj\Debug\net6.0\Kivetelkezeles.pdb
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Kivetelkezeles\obj\Debug\net6.0\Kivetelkezeles.genruntimeconfig.cache
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Kivetelkezeles\obj\Debug\net6.0\ref\Kivetelkezeles.dll

@@ -1,20 +1,30 @@
 <?php
     require '../config/config.php';
 
-    $user = json_decode(file_get_contents("php://input"));
+    if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+        // Adatok lementése a nézetből
+        $name = $_POST['name'];
+        $email = $_POST['emailAddress'];
+        $address = $_POST['address'];
+        $active = isset($_POST['active']) ? 1 : 0;
 
-    if (isset($user->name) && isset($user->emailAddress) && isset($user->address) && isset($user->active)) {
-        $stmt = $connection->prepare("INSERT INTO users (name, emailAddress, address, active) VALUES (:name, :emailAddress, :address, :active)");
-        $stmt->bindParam(':name', $user->name);
-        $stmt->bindParam(':emailAddress', $user->emailAddress);
-        $stmt->bindParam(':address', $user->address);
-        $stmt->bindParam(':active', $user->active);
-        if($stmt->execute()) {
-            echo json_encode(['message' => 'User created successfully.']);
+        // Amennyiben minden adat megérkezett, új adat felvétele az adatbázisba, ennek értékeinek beállítása
+        if (isset($name) && isset($email) && isset($address) && isset($active)) {
+            $stmt = $connection->prepare("INSERT INTO users (name, emailAddress, address, active) VALUES (:name, :emailAddress, :address, :active)");
+            $stmt->bindParam(':name', $name);
+            $stmt->bindParam(':emailAddress', $email);
+            $stmt->bindParam(':address', $address);
+            $stmt->bindParam(':active', $active);
+            if($stmt->execute()) {
+                // Sikeres mentés esetén visszairányít a home-ra
+                header("Location: ../index.php?page=home");
+            } else {
+                // Sikertelen mentés esetén hibaüzenet
+                echo 'Error: User creation failed.';
+            }
         } else {
-            echo json_encode(['message' => 'User creation failed.']);
+            // Hibaüzenet amennyiben nem érkezett meg minden adat
+            echo 'Error: Invalid input.';
         }
-    } else {
-        echo json_encode(['message' => 'Invalid input.']);
     }
 ?>

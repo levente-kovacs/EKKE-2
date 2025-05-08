@@ -18,8 +18,9 @@
 </head>
 
 <body>
-    <!-- <div class="background"></div> -->
-    <h1 class="title display-3 m-5 text-white">Y2XWHJ - WebProg II. Beadandó I.</h1>
+    <div class="background"></div>
+    <h1 class="title display-3 m-5 text-white">Y2XWHJ - WebProg II. Beadandó II.</h1>
+    <!-- Táblázat az adatok megjelenítésére -->
     <table>
         <thead>
             <tr>
@@ -42,12 +43,13 @@
         </thead>
         <tbody>
             <?php
-                require './config.php';
-                $stmt = $connection->prepare("SELECT * FROM users");
-                $stmt->execute();
-                $users = $stmt->fetchAll(PDO::FETCH_ASSOC);
+                // A read service importálása (az adatábzisból lekérdezett adatok eléréséhez)
+                require './service/read.php';
+
                 foreach ($users as $user) {
+                    // Iconok beállítása aktivitás szerint
                     $isActive = $user['active'] ? "<span style='color: #009879'><i class='fa fa-check-circle' aria-hidden='true'></i></span>" : "<span style='color: rgb(189, 0, 0);'><i class='fa fa-times-circle' aria-hidden='true'></i></span>";
+                    // Sor beszúrása a táblázatba a megfelelő adatokkal + módosítás és törlés gombokkal
                     echo "<tr>
                             <td>{$user['id']}</td>
                             <td>{$user['name']}</td>
@@ -56,7 +58,7 @@
                             <td>{$isActive}</td>
                             <td>
                                 <a href='index.php?page=edit&id={$user['id']}'><button class='edit__button'><i class='fa fa-pencil' aria-hidden='true'></i></button></a>
-                                <a href='index.php?page=delete&id={$user['id']}'><button class='delete__button'><i class='fa fa-trash' aria-hidden='true'></i></button></a> 
+                                <a href='service/delete.php?id={$user['id']}'><button class='delete__button'><i class='fa fa-trash' aria-hidden='true'></i></button></a> 
                             </td>
                         </tr>";
                 }

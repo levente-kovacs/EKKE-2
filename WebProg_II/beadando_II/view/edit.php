@@ -1,14 +1,19 @@
 <?php
-    require '../config/config.php';
+    require './config/config.php';
 
+    // Beállítja a módosítani kívánt user változóját null-ra
     $edited_user = null;
+
+    // Amennyiben az id megérkezett, lekérjük a módosítani kívánt adatot az adatbázisból
     if (isset($_GET['id'])) {
         $stmt = $connection->prepare("SELECT * FROM users WHERE id = :id");
         $stmt->bindParam(':id', $_GET['id']);
         $stmt->execute();
+        // Módosítani kívánt user lementése
         $edited_user = $stmt->fetch(PDO::FETCH_ASSOC);
     }
 
+    // Hibaüzenet amennyiben nem sikerült megtalálni a módosítani kívánt user-t
     if (!$edited_user) {
         echo "User not found.";
         exit();
@@ -34,7 +39,8 @@
         Edit user
     </h1>
     <main class="col-lg-6 col-10">
-        <form class="form-control p-4 needs-validation" method="post" action="index.php?page=edit" novalidate>
+        <!-- Form az módosítani kívánt user adatainak megadásához bootstrap validálással, mely az update service-t hívja meg -->
+        <form class="form-control p-4 needs-validation" method="POST" action="service/update.php" novalidate>
             <div class="mb-3">
                 <label for="id" class="form-label">Id</label>
                 <input type="number" class="form-control" id="id" name="id" value="<?php echo $edited_user['id']; ?>" readonly>
@@ -67,6 +73,6 @@
     </main>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-    <script src="../assets/js/bootstrap.formvalidation.js"></script>
+    <script src="./assets/js/bootstrap.formvalidation.js"></script>
 </body>
 </html>

@@ -1,17 +1,22 @@
 <?php
-    require '../config.php';
+    require '../config/config.php';
 
-    $user = json_decode(file_get_contents("php://input"));
+    // Paraméterben átadott user id lementése
+    $id = $_GET['id'];
 
-    if (isset($user->id)) {
+    // Amennyiben az id megérkezett, a megfelelő adat törlése az adatbázisból
+    if (isset($id)) {
         $stmt = $connection->prepare("DELETE FROM users WHERE id = :id");
-        $stmt->bindParam(':id', $user->id);
+        $stmt->bindParam(':id', $id);
         if($stmt->execute()) {
-            echo json_encode(['message' => 'User deleted successfully.']);
+            // Sikeres törtlés esetén visszairányít a home-ra
+            header("Location: ../index.php?page=home");
         } else {
-            echo json_encode(['message' => 'User deletion failed.']);
+            // Sikertelen törtlés esetén hibaüzenet
+            echo 'Error: User deletion failed.';
         }
     } else {
-        echo json_encode(['message' => 'Invalid input.']);
+        // Hibaüzenet amennyiben nem érkezett meg az id
+        echo 'Error: Invalid id.';
     }
 ?>

@@ -5,11 +5,10 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     margin: 0;
-    /* background-position: f; */
 }
 
 .title {
-    text-shadow: 3px 0px 7px rgba(81,67,21,0.8), -3px 0px 7px rgba(81,67,21,0.8), 0px 4px 7px rgba(81,67,21,0.8);
+    text-shadow: 3px 0px 7px rgba(130, 249, 255, 0.4), -3px 0px 7px rgba(130, 249, 255, 0.4), 0px 4px 7px rgba(130, 249, 255, 0.4);
 }
 
 table {
@@ -41,7 +40,6 @@ thead>tr:last-child>th {
     background-color: #eee;
     text-align: center;
     padding: 10px 0px;
-    /* border-bottom: 0.3rem solid #009879; */
 }
 
 thead>tr:first-child th:first-child {
@@ -143,24 +141,6 @@ tr:nth-child(even)>td>a>.edit__button {
 
 .display-none {
     display: none;
-    font-family: 'Shippori Antique', sans-serif;
-    font-size: 14px;
-}
-
-.default__message {
-    color: black;
-    font-family: 'Shippori Antique', sans-serif;
-    font-size: 14px;
-}
-
-.valid__message {
-    color: green;
-    font-family: 'Shippori Antique', sans-serif;
-    font-size: 14px;
-}
-
-.invalid__message {
-    color: red;
     font-family: 'Shippori Antique', sans-serif;
     font-size: 14px;
 }

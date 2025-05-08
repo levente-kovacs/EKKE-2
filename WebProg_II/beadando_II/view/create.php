@@ -1,20 +1,3 @@
-<?php
-    // if ($_SERVER['REQUEST_METHOD'] == 'POST') {
-    //     $users = get_data($api_url);
-    //     $id = end($users)['id'] + 1;
-    //     $new_user = [
-    //         'id' => strval($id),
-    //         'name' => $_POST['name'],
-    //         'emailAddress' => $_POST['emailAddress'],
-    //         'address' => $_POST['address'],
-    //         'active' => isset($_POST['active']) ? true : false
-    //     ];
-    //     save_data($api_url, $new_user, 'POST');
-    //     header("Location: index.php?page=home");
-    //     exit();
-    // }
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -34,7 +17,8 @@
         Create user
     </h1>
     <main class="col-lg-6 col-10">
-        <form class="form-control p-4 needs-validation" method="post" action="service/create.php" novalidate>
+        <!-- Form az új user adatainak megadásához bootstrap validálással, mely a create service-t hívja meg -->
+        <form class="form-control p-4 needs-validation" method="POST" action="service/create.php" novalidate>
             <div class="mb-3">
                 <label for="inputName" class="form-label">Name</label>
                 <input type="text" class="form-control" id="inputName" name="name" pattern="^[A-ZÜŰÖŐÓÚÁÉÍ][a-zöőüűóúéáíA-ZÜŰÖŐÓÚÁÉÍ]{3,}(?: [A-ZÜŰÖŐÓÚÁÉÍ][a-zöőüűóúéáíA-ZÜŰÖŐÓÚÁÉÍ]*){0,2}$" required>
@@ -53,8 +37,8 @@
             </div>
             <div class="d-flex flex-column align-items-center justify-content-center">
                 <div class="mb-4 form-check">
-                    <input type="checkbox" class="form-check-input" id="active">
-                    <label class="form-check-label" for="active" name="active">Active</label>
+                    <input type="checkbox" class="form-check-input" id="active" name="active">
+                    <label class="form-check-label" for="active">Active</label>
                 </div>
                 <button type="submit" class="btn btn-outline-success col-8"><i class="fa fa-save" aria-hidden="true"></i></button>
             </div>
@@ -62,6 +46,6 @@
     </main>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-    <script src="../assets/js/bootstrap.formvalidation.js"></script>
+    <script src="./assets/js/bootstrap.formvalidation.js"></script>
 </body>
 </html>

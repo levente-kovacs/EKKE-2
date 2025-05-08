@@ -1,0 +1,182 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin: 0;
+    /* background-position: f; */
+}
+
+.title {
+    text-shadow: 3px 0px 7px rgba(81,67,21,0.8), -3px 0px 7px rgba(81,67,21,0.8), 0px 4px 7px rgba(81,67,21,0.8);
+}
+
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+    table-layout: auto;
+    width: 60%;
+    margin-bottom: 25px;
+    border-top-right-radius: 2rem;
+    border-top-left-radius: 2rem;
+    border: none;
+    border-bottom: 0.3rem solid #009879;
+    box-shadow: 0 0 20px rgba(0, 0, 0);
+    position: relative;
+}
+
+thead {
+    background-color: #009879;
+    text-align: left;
+    position: sticky;
+    top: 0;
+}
+
+thead>tr:first-child>th {
+    padding: 25px 10px;
+}
+
+thead>tr:last-child>th {
+    background-color: #eee;
+    text-align: center;
+    padding: 10px 0px;
+    /* border-bottom: 0.3rem solid #009879; */
+}
+
+thead>tr:first-child th:first-child {
+    border-top-left-radius: 1rem;
+}
+
+thead>tr:first-child th:last-child {
+    border-top-right-radius: 1rem;
+}
+
+th {
+    text-transform: capitalize;
+}
+
+tbody {
+    border: thin solid rgba(85, 85, 85, 0.1);
+}
+
+tr:nth-child(even) {
+    background-color: #eee;
+}
+
+tr:nth-child(odd):not(thead>tr:first-child) {
+    background-color: white;
+}
+
+td {
+    margin: 0;
+    padding: 8px 10px;
+    border-bottom: thin solid #dddddd;
+}
+
+td>div {
+    text-align: center;
+}
+
+.edit__input,
+.add__input {
+    width: 90%;
+    font-size: 16px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 0.4rem;
+    border: thin solid #bbb;
+    border-radius: 0.2rem;
+}
+
+.add__input {
+    font-size: 18px;
+}
+
+.edit__button,
+.delete__button,
+.save__button,
+.cancel__button {
+    color: black;
+    text-decoration: none;
+    height: 40px;
+    width: 40px;
+    font-size: 24px;
+    font-weight: 400;
+    background-color: #eee;
+    border: none;
+    border-radius: 0.3rem;
+}
+
+.edit__button:hover {
+    box-shadow: rgba(0, 162, 255, 0.6) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    cursor: pointer !important;
+}
+
+.delete__button:hover {
+    box-shadow: rgba(255, 0, 0, 0.6) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    cursor: pointer !important;
+}
+
+tr:nth-child(even)>td>a>.delete__button,
+tr:nth-child(even)>td>a>.edit__button {
+    background-color: white;
+}
+
+.save__button:hover,
+.cancel__button:hover {
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.save__button {
+    background-color: rgba(0, 162, 255, 0.3);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.cancel__button {
+    background-color: rgba(255, 0, 0, 0.3);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.visibility-hidden {
+    visibility: hidden;
+}
+
+.display-none {
+    display: none;
+    font-family: 'Shippori Antique', sans-serif;
+    font-size: 14px;
+}
+
+.default__message {
+    color: black;
+    font-family: 'Shippori Antique', sans-serif;
+    font-size: 14px;
+}
+
+.valid__message {
+    color: green;
+    font-family: 'Shippori Antique', sans-serif;
+    font-size: 14px;
+}
+
+.invalid__message {
+    color: red;
+    font-family: 'Shippori Antique', sans-serif;
+    font-size: 14px;
+}
+
+.next__id {
+    color: #777;
+    font-weight: normal;
+    font-size: 1rem;
+}
+
+.invalid__input:focus {
+    outline: none !important;
+    border-color: red;
+}
+
+.valid__input:focus {
+    outline: none;
+    border-color: green;
+}

@@ -1,0 +1,14 @@
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Delegates\bin\Debug\net6.0\Delegates.exe
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Delegates\bin\Debug\net6.0\Delegates.deps.json
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Delegates\bin\Debug\net6.0\Delegates.dll
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Delegates\bin\Debug\net6.0\Delegates.pdb
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Delegates\obj\Debug\net6.0\Delegates.dll
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Delegates\obj\Debug\net6.0\Delegates.pdb
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\Delegates\obj\Debug\net6.0\ref\Delegates.dll

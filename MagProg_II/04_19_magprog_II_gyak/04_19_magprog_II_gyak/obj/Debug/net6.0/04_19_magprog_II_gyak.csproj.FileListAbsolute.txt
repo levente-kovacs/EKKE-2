@@ -1,0 +1,14 @@
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\04_19_magprog_II_gyak\bin\Debug\net6.0\04_19_magprog_II_gyak.exe
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\04_19_magprog_II_gyak\bin\Debug\net6.0\04_19_magprog_II_gyak.deps.json
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\04_19_magprog_II_gyak\bin\Debug\net6.0\04_19_magprog_II_gyak.runtimeconfig.json
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\04_19_magprog_II_gyak\bin\Debug\net6.0\04_19_magprog_II_gyak.dll
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\04_19_magprog_II_gyak\bin\Debug\net6.0\04_19_magprog_II_gyak.pdb
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\04_19_magprog_II_gyak\obj\Debug\net6.0\04_19_magprog_II_gyak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\04_19_magprog_II_gyak\obj\Debug\net6.0\04_19_magprog_II_gyak.AssemblyInfoInputs.cache
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\04_19_magprog_II_gyak\obj\Debug\net6.0\04_19_magprog_II_gyak.AssemblyInfo.cs
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\04_19_magprog_II_gyak\obj\Debug\net6.0\04_19_magprog_II_gyak.csproj.CoreCompileInputs.cache
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\04_19_magprog_II_gyak\obj\Debug\net6.0\04_19_magprog_II_gyak.dll
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\04_19_magprog_II_gyak\obj\Debug\net6.0\refint\04_19_magprog_II_gyak.dll
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\04_19_magprog_II_gyak\obj\Debug\net6.0\04_19_magprog_II_gyak.pdb
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\04_19_magprog_II_gyak\obj\Debug\net6.0\04_19_magprog_II_gyak.genruntimeconfig.cache
+C:\Main\ekke\MagProg_II\04_19_magprog_II_gyak\04_19_magprog_II_gyak\obj\Debug\net6.0\ref\04_19_magprog_II_gyak.dll
